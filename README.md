@@ -29,6 +29,8 @@
 
 <img src="images/1.png" alt="Login Page" width="400">
 <img src="images/2.png" alt="Login Sucessfull" width="400">
+<img src="images/3.png" alt="Main Page" width="400">
+<img src="images/4.png" alt="Main Page Output" width="400">
 
 <h2>Getting Started</h2>
 
@@ -49,7 +51,7 @@ java PayrollApplicationGUI
 <h2>Usage</h2>
 
 <ul>
-    <li>Enter the employee details in the input fields.</li>
+    <li>Enter The Employee details in the input fields.</li>
     <li>Click the "Calculate" button to compute the salary.</li>
     <li>View the calculated salary details on the screen.</li>
 </ul>
