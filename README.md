@@ -27,8 +27,8 @@
 
 <h2>Screenshots</h2>
 
-<img src="demo/demo1.png" alt="Screenshot 1" width="400">
-<img src="demo/demo2.png" alt="Screenshot 2" width="400">
+<img src="images/1.png" alt="Login Page" width="400">
+<img src="images/2.png" alt="Login Sucessfull" width="400">
 
 <h2>Getting Started</h2>
 
